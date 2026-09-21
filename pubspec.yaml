@@ -24,6 +24,7 @@ dependencies:
   universal_html: ^2.2.4
   url_launcher: ^6.3.2
   phone_numbers_parser: ^9.0.26
+  socket_io_client: 3.1.6
 
 dev_dependencies:
   flutter_test:
